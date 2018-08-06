@@ -7,3 +7,5 @@ Exercise kind a page to getting know more about "responsive-site" concept.
 Responsivity:
 main design    : mobile first 
 secondary res. : width>800px
+<br><br>  
+![alt text](https://raw.githubusercontent.com/mustafaeker/responsive-exercise/master/readme-img.jpg)
